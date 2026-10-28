@@ -15,15 +15,13 @@ My work ranges from Java plugins and backend systems to web applications, automa
 
 ---
 ### 🚀 About Me
----
+
 * 💻 Building software with a focus on performance, reliability, and usability.
 * 🛠️ Interested in backend development, databases, networking, and infrastructure.
 * 🌐 Exploring web applications, automation, and server-side technologies.
 * 🎮 Developing Minecraft plugins and experimenting with game development.
 * 📚 Always learning, improving existing projects, and exploring new ideas.
 
----
-### 🛠️ Tech Stack
 ---
 ### 💻 Languages
 
@@ -54,7 +52,7 @@ My work ranges from Java plugins and backend systems to web applications, automa
 
 ---
 ### 🌟 Featured Open-Source Projects
----
+
 A collection of my public projects, primarily focused on Minecraft server development, plugins, and gameplay systems.
 
 <div align="center">
@@ -83,7 +81,7 @@ A collection of my public projects, primarily focused on Minecraft server develo
 
 ---
 ### 📈 GitHub Statistics
----
+
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=hbojoe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
@@ -94,7 +92,7 @@ A collection of my public projects, primarily focused on Minecraft server develo
 
 ---
 ### 🔥 Contribution Streak
----
+
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=hbojoe&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
@@ -103,7 +101,6 @@ A collection of my public projects, primarily focused on Minecraft server develo
 
 ---
 ### 📦 Open Source & Development
----
 
 Most of my public projects are Minecraft plugins, but I also enjoy working with backend systems, websites, databases, and server infrastructure. I tend to build things because I have an idea I want to try or a problem I want to solve. Sometimes that means starting something new, other times it's improving something I've already built.
 
